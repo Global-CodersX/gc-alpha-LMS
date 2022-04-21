@@ -1,3 +1,6 @@
 [submodule "api"]
 	path = api
 	url = git@github.com:JDeepD/gc-alpha-backend.git
+[submodule "website"]
+	path = website
+	url = git@github.com:Jugya07/eLibrary.git
