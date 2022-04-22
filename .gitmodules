@@ -7,3 +7,6 @@
 [submodule "frontend"]
 	path = frontend
 	url = git@github.com:Jugya07/frontendPowerthon.git
+[submodule "backend"]
+	path = backend
+	url = git@github.com:JDeepD/gc-alpha-backend.git
