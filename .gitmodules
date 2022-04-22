@@ -4,3 +4,6 @@
 [submodule "website"]
 	path = website
 	url = git@github.com:Jugya07/eLibrary.git
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:Jugya07/frontendPowerthon.git
